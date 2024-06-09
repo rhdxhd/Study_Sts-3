@@ -1,1 +1,1 @@
-# Study_sts-3.9.17.
+# Study_sts-3
